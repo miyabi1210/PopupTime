@@ -1,1 +1,1 @@
-# PopupTime_nukkit-plugin
+# PopupTime-nukkitplugin
